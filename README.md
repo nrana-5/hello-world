@@ -1,5 +1,5 @@
 # hello-world
 **Testing Git**
-__this is italicized text__
+_this is italicized text_
 ~~a mistake~~
 ***practicingg***
