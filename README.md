@@ -1,2 +1,4 @@
 # hello-world
-Testing Git
+**Testing Git**
+~~a mistake~~
+***practicingg***
